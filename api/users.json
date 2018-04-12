@@ -1,0 +1,181 @@
+[{
+  "id": 1,
+  "login": "test",
+  "password": "12345",
+  "first_name": "Hussein",
+  "last_name": "Fronsek",
+  "email": "hfronsek0@theguardian.com",
+  "gender": "Male",
+  "phone": "771-234-1875"
+}, {
+  "id": 2,
+  "login": "fgreening1",
+  "password": "fg8nLqZF",
+  "first_name": "Freddy",
+  "last_name": "Greening",
+  "email": "fgreening1@businessinsider.com",
+  "gender": "Male",
+  "phone": "131-394-4599"
+}, {
+  "id": 3,
+  "login": "eedwick2",
+  "password": "ldzXAmoMV",
+  "first_name": "Enos",
+  "last_name": "Edwick",
+  "email": "eedwick2@nyu.edu",
+  "gender": "Male",
+  "phone": "364-297-9061"
+}, {
+  "id": 4,
+  "login": "irides3",
+  "password": "XEw76eTo",
+  "first_name": "Isak",
+  "last_name": "Rides",
+  "email": "irides3@amazon.de",
+  "gender": "Male",
+  "phone": "309-132-0892"
+}, {
+  "id": 5,
+  "login": "bmacshirie4",
+  "password": "OlkgLOECLhla",
+  "first_name": "Benedetto",
+  "last_name": "MacShirie",
+  "email": "bmacshirie4@dedecms.com",
+  "gender": "Male",
+  "phone": "231-133-7504"
+}, {
+  "id": 6,
+  "login": "mmcgeechan5",
+  "password": "KjVsutu3V",
+  "first_name": "Michele",
+  "last_name": "McGeechan",
+  "email": "mmcgeechan5@senate.gov",
+  "gender": "Male",
+  "phone": "975-856-8902"
+}, {
+  "id": 7,
+  "login": "jelwell6",
+  "password": "PrSIp2h9sG",
+  "first_name": "Jodee",
+  "last_name": "Elwell",
+  "email": "jelwell6@ucoz.ru",
+  "gender": "Female",
+  "phone": "617-127-2526"
+}, {
+  "id": 8,
+  "login": "blardez7",
+  "password": "mQn2uXLhtS",
+  "first_name": "Brandea",
+  "last_name": "Lardez",
+  "email": "blardez7@weibo.com",
+  "gender": "Female",
+  "phone": "615-827-3114"
+}, {
+  "id": 9,
+  "login": "nfairpool8",
+  "password": "5fUPBjJIS",
+  "first_name": "Neille",
+  "last_name": "Fairpool",
+  "email": "nfairpool8@amazon.co.jp",
+  "gender": "Female",
+  "phone": "709-915-5134"
+}, {
+  "id": 10,
+  "login": "aarnaut9",
+  "password": "JKTyPkhx4qb",
+  "first_name": "Amandie",
+  "last_name": "Arnaut",
+  "email": "aarnaut9@elpais.com",
+  "gender": "Female",
+  "phone": "381-442-3855"
+}, {
+  "id": 11,
+  "login": "chumblestonea",
+  "password": "zy2kwsQgnRD",
+  "first_name": "Courtney",
+  "last_name": "Humblestone",
+  "email": "chumblestonea@ning.com",
+  "gender": "Male",
+  "phone": "405-345-0120"
+}, {
+  "id": 12,
+  "login": "ipitceathlyb",
+  "password": "fpeBkCZdTGZR",
+  "first_name": "Ibbie",
+  "last_name": "Pitceathly",
+  "email": "ipitceathlyb@blogtalkradio.com",
+  "gender": "Female",
+  "phone": "186-585-1054"
+}, {
+  "id": 13,
+  "login": "gbaikec",
+  "password": "YHcA1Gj",
+  "first_name": "Gale",
+  "last_name": "Baike",
+  "email": "gbaikec@comsenz.com",
+  "gender": "Male",
+  "phone": "384-830-6781"
+}, {
+  "id": 14,
+  "login": "mpigdond",
+  "password": "zr0ILfTo",
+  "first_name": "Maximilian",
+  "last_name": "Pigdon",
+  "email": "mpigdond@slashdot.org",
+  "gender": "Male",
+  "phone": "711-129-3461"
+}, {
+  "id": 15,
+  "login": "zblackallere",
+  "password": "4ePa2b",
+  "first_name": "Zeb",
+  "last_name": "Blackaller",
+  "email": "zblackallere@yahoo.com",
+  "gender": "Male",
+  "phone": "259-700-3197"
+}, {
+  "id": 16,
+  "login": "svanesf",
+  "password": "5iGcsf5",
+  "first_name": "Sarge",
+  "last_name": "Vanes",
+  "email": "svanesf@yale.edu",
+  "gender": "Male",
+  "phone": "876-524-6274"
+}, {
+  "id": 17,
+  "login": "myukhovg",
+  "password": "q7w5kHdlEN",
+  "first_name": "Mada",
+  "last_name": "Yukhov",
+  "email": "myukhovg@mapquest.com",
+  "gender": "Female",
+  "phone": "512-933-1030"
+}, {
+  "id": 18,
+  "login": "rdraneh",
+  "password": "9T2cnTRZ",
+  "first_name": "Ricoriki",
+  "last_name": "Drane",
+  "email": "rdraneh@uol.com.br",
+  "gender": "Male",
+  "phone": "892-145-3628"
+}, {
+  "id": 19,
+  "login": "tmalehami",
+  "password": "mIcODsO",
+  "first_name": "Tobin",
+  "last_name": "Maleham",
+  "email": "tmalehami@imdb.com",
+  "gender": "Male",
+  "phone": "341-128-9600"
+}, {
+  "id": 20,
+  "login": "dpentlowj",
+  "password": "0D4pdRnHmpmZ",
+  "first_name": "Drucy",
+  "last_name": "Pentlow",
+  "email": "dpentlowj@people.com.cn",
+  "gender": "Female",
+  "phone": "902-572-1389"
+}]
